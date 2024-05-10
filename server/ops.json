@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "734eaf94-d205-3002-ac03-ea79fac79dc9",
+    "name": "ibomba",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

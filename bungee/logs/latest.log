@@ -68,3 +68,20 @@
 [19:04:19] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [19:04:19] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [19:04:19] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[19:07:01] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48382]: Connected via websocket
+[19:07:01] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48382]: Origin header is null
+[19:07:01] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48382]: Logged in as 'ibomba'
+[19:07:01] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48382|ibomba] -> UpstreamBridge has connected
+[19:07:01] [Netty Worker IO Thread #3/INFO]: [ibomba|/[0:0:0:0:0:0:0:1%0]:48382] <-> ServerConnector [lobby] has connected
+[19:07:29] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48382|ibomba] -> UpstreamBridge has disconnected
+[19:07:29] [Netty Worker IO Thread #3/INFO]: [ibomba] disconnected with: Proxy lost connection to server.
+[19:07:29] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48382|ibomba] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:10:10] [Shutdown Thread/INFO]: Closing listener [id: 0xb40b73da, L:/127.0.0.1:25577]
+[19:10:10] [Shutdown Thread/INFO]: Closing pending connections
+[19:10:10] [Shutdown Thread/INFO]: Disconnecting 0 connections
+[19:10:11] [Shutdown Thread/INFO]: Disabling plugins
+[19:10:11] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
+[19:10:11] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[19:10:11] [Shutdown Thread/INFO] [EaglercraftXBungee]: Stopping skin cache HTTP client...
+[19:10:13] [Shutdown Thread/INFO]: Closing IO threads
+[19:10:15] [Shutdown Thread/INFO]: Thank you and goodbye

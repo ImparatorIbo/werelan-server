@@ -1,5 +1,5 @@
 window.eaglercraftXOpts = () => ({
-	lang: "en_US",
+	lang: "tr_TR",
   // joinServer: "ws" + window.location.href.slice(4),
   // assetsURI: "custom.epk",
 	servers: [
